@@ -8,3 +8,4 @@ The objective of this project is to analyze sales data and create meaningful vis
 -<a href="https://github.com/Yojana-1808/sales-analysis-dashboard-/blob/main/power%20bi%20(%20sales%20and%20analysis).pbix-">sales-analysis Data</a>
 
 #Dashboard interaction <a href=https://github.com/Yojana-1808/sales-analysis-dashboard-/commit/f55ecf404c4d47a7184ba16a86907e9405634088>view dashboard</a>
+
