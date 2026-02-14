@@ -3,3 +3,5 @@ I create a comprehensive task in power bi , creating multiple dashboards and tab
 
 # project objectives 
 The objective of this project is to analyze sales data and create meaningful visualizations that communicate clear business insights. The project focuses on transforming raw sales data into interactive dashboards using data visualization tools such as Power BI
+
+#dataset 
